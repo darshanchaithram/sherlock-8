@@ -9,7 +9,7 @@ const Vicious7 = (props) => {
   return (
     <div className="vicious7-container">
       <Helmet>
-        <title>Vicious-7 - OnConf template1</title>
+        <title>Vicious-7</title>
         <meta property="og:title" content="Vicious-7 - OnConf template1" />
       </Helmet>
       <div className="vicious7-hero">
